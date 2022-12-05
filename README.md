@@ -1,1 +1,21 @@
 # PkmnIsolatedEncounter
+
+PkmnIsolatedEncounter created by Dario B. aka Lord of D.
+
+The Isolated Encounter Method was coined by the YouTuber 'Austin John Plays'.
+For reference/tutorial watch: https://www.youtube.com/watch?v=y9zO9LiFF2Y.
+
+
+How to use:
+Simply enter the name of any Pokemon that is available in Scarlet and Violet.
+This program calculates which areas have the least amount of matches for that Pokemon.
+The result is saved in a text file.
+You can change the path the text file is stored in simply by putting it in 'path.txt'.
+If 'path.txt' is kept empty any text files will be saved in the 'Text Files' folder.
+
+
+Disclaimer:
+This program uses data from https://serebii.net.
+Since their website is subject to change this program might not work in the future.
+Also this program might not work for any Pokemon added through DLCs or updates.
+I will try to keep this as up to date as possible.
